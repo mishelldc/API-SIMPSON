@@ -1,2 +1,2 @@
 # API-SIMPSON
-acepte la api, porque lo que usted puso de las apis no sirve, nada sirve. 
+<h6> https://mishelldc.github.io/API-SIMPSON/</h6>
